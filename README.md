@@ -17,6 +17,22 @@ The goal is to understand how digital lifestyles influence mental wellness and t
 - Build an **Excel dashboard** summarizing key insights and visuals  
 
 ---
+📁 Impact-of-Screentime-on-Mental-Health
+│
+├── 📊 data/
+│ └── screentime_mental_health_dataset.xlsx
+│
+├── 📈 analysis/
+│ ├── regression_results.xlsx
+│ ├── correlation_matrix.xlsx
+│ └── charts/
+│ ├── screen_time_by_device.png
+│ ├── stress_vs_screen_time.png
+│ └── wellbeing_correlation.png
+│
+├── 🧮 dashboard/
+│ ├── impact_of_screentime_dashboard.xlsx
+│ └── impact_of_screentime_dashboard_365.xlsx (Dynamic Array version)
 
 
 ---
