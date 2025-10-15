@@ -1,5 +1,6 @@
 # 🧠 Impact of Screen Time on Mental Health
 ---
+![Image](https://github.com/user-attachments/assets/a5196b13-ec78-4e06-85ef-d717a1176db9)
 
 ## 📋 Overview
 This project investigates the **impact of digital screen time on mental health** by analyzing relationships between device usage patterns and self-reported mental well-being.  
